@@ -171,7 +171,7 @@ for i in l:
                     if x.isdigit():
                         print(j)
 
-# Q14 : to find out multiplication of all numeric value in the indicvidual collection inside data set:
+# Q14 : to find out multiplication of all numeric value in the individual collection inside data set:
 
 mul = 1
 for i in l:
